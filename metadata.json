@@ -1,0 +1,6 @@
+{
+  "name": "Auratech",
+  "description": "Auratech - Patient Medical App with appointments, pharmacies, lab tests and health management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
